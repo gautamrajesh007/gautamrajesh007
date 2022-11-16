@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gautamrajesh.official@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny but I'm not. I can sometimes crack jokes on others but can't counter any**
+- ⚡ Fun fact **I think I'm funny but I'm not. I can sometimes crack jokes on others but can't counter any😒...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
