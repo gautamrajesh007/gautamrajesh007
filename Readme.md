@@ -15,14 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/gautamrdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gautamrdev7" height="30" width="40" /></a>
+<a href="https://dev.to/gautamrdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gautamrdev7" height="30" width="40" /></a>
 <a href="https://twitter.com/gautam_r7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautam_r7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-rajesh-a98491255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-rajesh-a98491255/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gautamrajesh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gautamrajesh007" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/gautam.7.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gautam.7.r/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautam-rajesh-a98491255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-rajesh-a98491255" height="30" width="40" /></a>
+<a href="https://kaggle.com/gautamrajesh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gautamrajesh007" height="30" width="40" /></a>
+<a href="https://fb.com/gautam.7.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautam.7.r" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamrajesh_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamrajesh_007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/gautamrajesh_of1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gautamrajesh_of1" height="30" width="40" /></a>
-<a href="https://discord.gg/PointBreak#6367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PointBreak#6367" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gautamrajesh_of1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gautamrajesh_of1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
