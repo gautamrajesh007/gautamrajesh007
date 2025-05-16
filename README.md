@@ -16,18 +16,18 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" justify="center">
       <img src="https://github-readme-stats.vercel.app/api?username=gautamrajesh007&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" width="350"/>
     </td>
-    <td align="center">
+    <td align="center" justify="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamrajesh007&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" justify="center">
       <img src="https://github-contributor-stats.vercel.app/api?username=gautamrajesh007&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" width="350"/>
     </td>
-    <td align="center">
+    <td align="center" justify="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=gautamrajesh007&theme=ambient_gradient&hide_border=true" width="350"/>
     </td>
   </tr>
